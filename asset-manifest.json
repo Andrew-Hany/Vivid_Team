@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Andrew-Hany/Vivid-team.git/static/css/main.0c2bfb06.chunk.css",
+    "main.js": "/Andrew-Hany/Vivid-team.git/static/js/main.7fa912ba.chunk.js",
+    "main.js.map": "/Andrew-Hany/Vivid-team.git/static/js/main.7fa912ba.chunk.js.map",
+    "runtime-main.js": "/Andrew-Hany/Vivid-team.git/static/js/runtime-main.c9790919.js",
+    "runtime-main.js.map": "/Andrew-Hany/Vivid-team.git/static/js/runtime-main.c9790919.js.map",
+    "static/js/2.8730933b.chunk.js": "/Andrew-Hany/Vivid-team.git/static/js/2.8730933b.chunk.js",
+    "static/js/2.8730933b.chunk.js.map": "/Andrew-Hany/Vivid-team.git/static/js/2.8730933b.chunk.js.map",
+    "index.html": "/Andrew-Hany/Vivid-team.git/index.html",
+    "precache-manifest.9e0b1b969275428ca1ad4f2d50304695.js": "/Andrew-Hany/Vivid-team.git/precache-manifest.9e0b1b969275428ca1ad4f2d50304695.js",
+    "service-worker.js": "/Andrew-Hany/Vivid-team.git/service-worker.js",
+    "static/css/main.0c2bfb06.chunk.css.map": "/Andrew-Hany/Vivid-team.git/static/css/main.0c2bfb06.chunk.css.map",
+    "static/js/2.8730933b.chunk.js.LICENSE.txt": "/Andrew-Hany/Vivid-team.git/static/js/2.8730933b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Andrew-Hany/Vivid-team.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9790919.js",
+    "static/js/2.8730933b.chunk.js",
+    "static/css/main.0c2bfb06.chunk.css",
+    "static/js/main.7fa912ba.chunk.js"
+  ]
+}
