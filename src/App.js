@@ -1,26 +1,41 @@
-import React from 'react';
+import React, {Component, useState} from 'react';
 import logo from './logo.svg';
-import './App.css';
+import Side  from './components/newSide';
+import Navbar  from './components/navbar';
 
-function App() {
+import './App.css';
+import $ from "jquery";
+
+
+class App extends Component  {
+  state={
+    courses:[],
+    grades:[],
+    name:"vivid Team",
+    onS:false,
+    onj:false,
+  };
+  handlejoin=()=>{
+    this.setState({onj:!this.state.onj})
+    console.log(this.state.onj)
+  }
+  render(){
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Navbar
+   
+    />
+      <Side
+      name={this.state.name}
+      onS={this.state.onS}
+      onj={this.state.onj}
+      handlejoin={this.handlejoin}
+      />
+      
+      
+    
     </div>
   );
 }
-
+}
 export default App;
