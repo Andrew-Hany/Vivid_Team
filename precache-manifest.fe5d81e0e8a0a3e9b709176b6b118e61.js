@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5ecd8ab4ee99ae8b847d407919cdc5a",
+    "revision": "3646fa7b280b6efd6d20b9757b517df8",
     "url": "/vivid_team/index.html"
   },
   {
-    "revision": "24d895964035bdea0abb",
-    "url": "/vivid_team/static/css/main.df39fdfb.chunk.css"
+    "revision": "39500b869d46c67fa994",
+    "url": "/vivid_team/static/css/main.6b9104b8.chunk.css"
   },
   {
     "revision": "4b9afdacbd693070901b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vivid_team/static/js/2.f7ac0173.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24d895964035bdea0abb",
-    "url": "/vivid_team/static/js/main.9beaa8cb.chunk.js"
+    "revision": "39500b869d46c67fa994",
+    "url": "/vivid_team/static/js/main.c98ed71e.chunk.js"
   },
   {
     "revision": "c6cca2c055cff1302c69",
