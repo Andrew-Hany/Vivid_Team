@@ -60,7 +60,7 @@ this.setState({onC:false})
 this.setState({onV:false})
 this.setState({onS:false})
 this.setState({onR:false})
-
+this.setState({onT:false})
         }}
     
         toggleCourse=()=>{
@@ -71,6 +71,7 @@ this.setState({onR:false})
           this.setState({onV:false})
           this.setState({onS:false})
           this.setState({onR:false})
+          this.setState({onT:false})
                   }}
               
                   toggleVr=()=>{
@@ -80,7 +81,8 @@ this.setState({onR:false})
                     this.setState({ong:false})
                     this.setState({onC:false})
                     this.setState({onR:false})
-                    this.setState({onS:false})          
+                    this.setState({onS:false}) 
+                    this.setState({onT:false})         
                   }}
                             toggleSub=()=>{
                               let onS=this.state.onS;
@@ -256,7 +258,7 @@ this.setState({onR:false})
     </div>
   </nav>
   
-  <main class="page-content">
+  <main class="page-content overflow-auto">
   {this.state.ong&&<Grades/>}
 {this.state.onC&&<Courses/>}
 {this.state.onV&&<VR
