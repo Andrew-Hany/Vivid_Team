@@ -3,6 +3,7 @@ import  Img from'./download.jpg'
 
 class VR extends Component  {
     
+  
     render(){
         return (
         <div> 
@@ -10,7 +11,18 @@ class VR extends Component  {
             <br/>
             <br/>
             <img class=" Image"src={Img}/>
-            <button class="btn btn-primary button" onClick={this.props.handlejoin}>join Classroom</button>
+            <button class="btn btn-primary button" onClick={this.props.handlejoin}>
+            
+            {this.props.onj===false && <span>join Classroom</span>}
+            {this.props.onj===true && <span>disconnect</span>}
+            </button>
         </div> );}
     }
-    export default VR
+    export default VR;
+
+
+   
+
+
+
+   

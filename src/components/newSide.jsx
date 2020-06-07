@@ -4,12 +4,17 @@ import $ from 'jquery';
 import Grades  from './grades';
 import Courses  from './cources';
 import VR  from './VRclassrome';
+import Sub  from './submission';
+import Rec  from './Recording';
+import Tra  from './trainer';
 class Nside extends Component  {
     state={
       ong:false,
     onC:false,
      onV:false,
-    
+    onS:false,
+    onT:false,
+    onR:false,
   
        
     };
@@ -53,6 +58,8 @@ class Nside extends Component  {
 this.setState({ong:!this.state.ong})
 this.setState({onC:false})
 this.setState({onV:false})
+this.setState({onS:false})
+this.setState({onR:false})
 
         }}
     
@@ -62,6 +69,8 @@ this.setState({onV:false})
           this.setState({onC:!this.state.onC})
           this.setState({ong:false})
           this.setState({onV:false})
+          this.setState({onS:false})
+          this.setState({onR:false})
                   }}
               
                   toggleVr=()=>{
@@ -70,7 +79,39 @@ this.setState({onV:false})
                     this.setState({onV:!this.state.onV})
                     this.setState({ong:false})
                     this.setState({onC:false})
-                            }}
+                    this.setState({onR:false})
+                    this.setState({onS:false})          
+                  }}
+                            toggleSub=()=>{
+                              let onS=this.state.onS;
+                              if( onS==false){
+                              this.setState({onS:!this.state.onS})
+                              this.setState({ong:false})
+                              this.setState({onC:false})
+                              this.setState({onV:false})
+                              this.setState({onR:false})
+                              this.setState({onT:false})
+                                      }}
+                                      toggleRec=()=>{
+                                        let onR=this.state.onR;
+                                        if( onR==false){
+                                        this.setState({onR:!this.state.onR})
+                                        this.setState({ong:false})
+                                        this.setState({onC:false})
+                                        this.setState({onV:false})
+                                        this.setState({onS:false})
+                                        this.setState({onT:false})
+                                                }}
+                                                toggleTraing=()=>{
+                                                  let onT=this.state.onT;
+                                                  if( onT==false){
+                                                  this.setState({onT:!this.state.onT})
+                                                  this.setState({ong:false})
+                                                  this.setState({onC:false})
+                                                  this.setState({onV:false})
+                                                  this.setState({onS:false})
+                                                  this.setState({onR:false})
+                                                          }}
                         
     render(){
         return (<div>  
@@ -134,7 +175,7 @@ this.setState({onV:false})
           <li  >
             <a href="#">
               <i class="fa fa-shopping-cart"></i>
-              <span  onClick={this.toggleGrade}>Grade</span>
+              <span  onClick={this.toggleGrade}>Grades</span>
               <span class="badge badge-pill badge-danger">5</span>
             </a>
             
@@ -149,10 +190,25 @@ this.setState({onV:false})
           <li >
             <a href="#">
             <i class="fa fa-tachometer-alt"></i>
-              <span > 3D &amp; 2D Submission</span>
+              <span  onClick={this.toggleSub}> 3D &amp; 2D Submission</span>
             </a>
            
           </li>
+          <li >
+            <a href="#">
+            <i class="fa fa-tachometer-alt"></i>
+              <span  onClick={this.toggleTraing}> Training </span>
+            </a>
+           
+          </li>
+          <li >
+            <a href="#">
+            <i class="fa fa-tachometer-alt"></i>
+              <span  onClick={this.toggleRec}> recordings  </span>
+            </a>
+           
+          </li>
+          
           
           <li class="header-menu">
             <span>Extra</span>
@@ -208,7 +264,25 @@ this.setState({onV:false})
   handlejoin={this.props.handlejoin}
   />}
 
-  {this.props.onj&&<h1>asasdasd</h1>}
+  {this.props.onj&&
+  <div>
+  <h1>simulation for engineering lab</h1>
+  <br/>
+  <br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lKybAxJAorQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br/>
+  <br/>
+  <h1>simulation for medincin lab</h1>
+  <br/>
+  <br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LcD1VgOljLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h1 class=" center "><span class="badge badge-danger">don't forget to disconnect before leaving </span></h1>
+
+  </div>
+  }
+   {this.state.onS&&<Sub/>}
+   {this.state.onR&&<Rec/>}
+   {this.state.onT&&<Tra/>}
   </main>
   
   

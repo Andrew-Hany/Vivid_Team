@@ -7,13 +7,12 @@ import './App.css';
 import $ from "jquery";
 
 
-
 class App extends Component  {
   state={
     courses:[],
     grades:[],
     name:"vivid Team",
-    onS:false,
+    
     onj:false,
   };
   handlejoin=()=>{
@@ -28,7 +27,7 @@ class App extends Component  {
     />
       <Side
       name={this.state.name}
-      onS={this.state.onS}
+      
       onj={this.state.onj}
       handlejoin={this.handlejoin}
       />
