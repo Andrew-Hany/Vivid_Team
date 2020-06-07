@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Andrew-Hany/Vivid.git/static/css/main.0c2bfb06.chunk.css",
-    "main.js": "/Andrew-Hany/Vivid.git/static/js/main.76df52e8.chunk.js",
-    "main.js.map": "/Andrew-Hany/Vivid.git/static/js/main.76df52e8.chunk.js.map",
-    "runtime-main.js": "/Andrew-Hany/Vivid.git/static/js/runtime-main.4dd48416.js",
-    "runtime-main.js.map": "/Andrew-Hany/Vivid.git/static/js/runtime-main.4dd48416.js.map",
-    "static/js/2.8730933b.chunk.js": "/Andrew-Hany/Vivid.git/static/js/2.8730933b.chunk.js",
-    "static/js/2.8730933b.chunk.js.map": "/Andrew-Hany/Vivid.git/static/js/2.8730933b.chunk.js.map",
-    "index.html": "/Andrew-Hany/Vivid.git/index.html",
-    "precache-manifest.56e99953d4915285e9b234cc421fa92d.js": "/Andrew-Hany/Vivid.git/precache-manifest.56e99953d4915285e9b234cc421fa92d.js",
-    "service-worker.js": "/Andrew-Hany/Vivid.git/service-worker.js",
-    "static/css/main.0c2bfb06.chunk.css.map": "/Andrew-Hany/Vivid.git/static/css/main.0c2bfb06.chunk.css.map",
-    "static/js/2.8730933b.chunk.js.LICENSE.txt": "/Andrew-Hany/Vivid.git/static/js/2.8730933b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Andrew-Hany/Vivid.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Vivid/static/css/main.0c2bfb06.chunk.css",
+    "main.js": "/Vivid/static/js/main.9253f4a4.chunk.js",
+    "main.js.map": "/Vivid/static/js/main.9253f4a4.chunk.js.map",
+    "runtime-main.js": "/Vivid/static/js/runtime-main.d66a6fd5.js",
+    "runtime-main.js.map": "/Vivid/static/js/runtime-main.d66a6fd5.js.map",
+    "static/js/2.8730933b.chunk.js": "/Vivid/static/js/2.8730933b.chunk.js",
+    "static/js/2.8730933b.chunk.js.map": "/Vivid/static/js/2.8730933b.chunk.js.map",
+    "index.html": "/Vivid/index.html",
+    "precache-manifest.19942b56c96bda79990eb8434167a8b1.js": "/Vivid/precache-manifest.19942b56c96bda79990eb8434167a8b1.js",
+    "service-worker.js": "/Vivid/service-worker.js",
+    "static/css/main.0c2bfb06.chunk.css.map": "/Vivid/static/css/main.0c2bfb06.chunk.css.map",
+    "static/js/2.8730933b.chunk.js.LICENSE.txt": "/Vivid/static/js/2.8730933b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Vivid/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4dd48416.js",
+    "static/js/runtime-main.d66a6fd5.js",
     "static/js/2.8730933b.chunk.js",
     "static/css/main.0c2bfb06.chunk.css",
-    "static/js/main.76df52e8.chunk.js"
+    "static/js/main.9253f4a4.chunk.js"
   ]
 }
