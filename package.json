@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Andrew-Hany.github.io/vivid",
+  "homepage": "https://andrew-hany.github.io/vivid/",
   "name": "new_vivid_team",
   "version": "0.1.0",
   "private": true,
@@ -10,6 +10,7 @@
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {
