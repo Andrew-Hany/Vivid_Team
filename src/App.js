@@ -7,6 +7,7 @@ import './App.css';
 import $ from "jquery";
 
 
+
 class App extends Component  {
   state={
     courses:[],
