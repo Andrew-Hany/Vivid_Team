@@ -10,7 +10,7 @@ class VR extends Component  {
             <h4 class="center">Please make sure your VR DEVICE is connected</h4>
             <br/>
             <br/>
-            <img class=" Image"src={Img}/>
+            <img class="  img-fluid Image"src={Img}/>
             <button class="btn btn-primary button" onClick={this.props.handlejoin}>
             
             {this.props.onj===false && <span>join Classroom</span>}

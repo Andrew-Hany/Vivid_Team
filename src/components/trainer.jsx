@@ -24,7 +24,7 @@ class VR extends Component  {
 </li>
 </ol>
 <br/>
-<img src={Im}/>
+<img class="img-fluid"src={Im}/>
 <h1 class=" m-5"> For more explanation</h1>
 <iframe 
 width="560"

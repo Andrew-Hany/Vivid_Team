@@ -18,11 +18,11 @@ class sub extends Component  {
             <br/>
             <br/>
             <p class=" pa badge badge-info sub">if you are going to submit 3D assignment please make sure that you used this camera</p>
-            <img class=" Image2"src={Imge}/>
+            <img class=" img-fluid Image2"src={Imge}/>
             <p class="pa badge badge-info sub">if you are going to submit 2D assignment, just use any thing: </p>
-            <img class=" Image2"src={Imge3}/>
-            <img class=" Image2"src={Imge2}/>
-            <img class=" Image2"src={Imge1}/>
+            <img class=" img-fluid Image2"src={Imge3}/>
+            <img class=" img-fluid Image2"src={Imge2}/>
+            <img class=" img-fluid Image2"src={Imge1}/>
             
             <button class="btn btn-primary button" >upload
             </button>
