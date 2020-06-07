@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Vivid-team/static/css/main.0c2bfb06.chunk.css",
-    "main.js": "/Vivid-team/static/js/main.c96cbf46.chunk.js",
-    "main.js.map": "/Vivid-team/static/js/main.c96cbf46.chunk.js.map",
-    "runtime-main.js": "/Vivid-team/static/js/runtime-main.1d4712f2.js",
-    "runtime-main.js.map": "/Vivid-team/static/js/runtime-main.1d4712f2.js.map",
-    "static/js/2.8dc42b01.chunk.js": "/Vivid-team/static/js/2.8dc42b01.chunk.js",
-    "static/js/2.8dc42b01.chunk.js.map": "/Vivid-team/static/js/2.8dc42b01.chunk.js.map",
-    "index.html": "/Vivid-team/index.html",
-    "precache-manifest.5dee19a15764e23104e91453b67ed69f.js": "/Vivid-team/precache-manifest.5dee19a15764e23104e91453b67ed69f.js",
-    "service-worker.js": "/Vivid-team/service-worker.js",
-    "static/css/main.0c2bfb06.chunk.css.map": "/Vivid-team/static/css/main.0c2bfb06.chunk.css.map",
-    "static/js/2.8dc42b01.chunk.js.LICENSE.txt": "/Vivid-team/static/js/2.8dc42b01.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Vivid-team/static/media/logo.5d5d9eef.svg"
+    "main.css": "/vivid_team/static/css/main.0c2bfb06.chunk.css",
+    "main.js": "/vivid_team/static/js/main.bb64d60b.chunk.js",
+    "main.js.map": "/vivid_team/static/js/main.bb64d60b.chunk.js.map",
+    "runtime-main.js": "/vivid_team/static/js/runtime-main.5d6ba651.js",
+    "runtime-main.js.map": "/vivid_team/static/js/runtime-main.5d6ba651.js.map",
+    "static/js/2.8dc42b01.chunk.js": "/vivid_team/static/js/2.8dc42b01.chunk.js",
+    "static/js/2.8dc42b01.chunk.js.map": "/vivid_team/static/js/2.8dc42b01.chunk.js.map",
+    "index.html": "/vivid_team/index.html",
+    "precache-manifest.1d5095017e0228699ea72ac3f3970dc5.js": "/vivid_team/precache-manifest.1d5095017e0228699ea72ac3f3970dc5.js",
+    "service-worker.js": "/vivid_team/service-worker.js",
+    "static/css/main.0c2bfb06.chunk.css.map": "/vivid_team/static/css/main.0c2bfb06.chunk.css.map",
+    "static/js/2.8dc42b01.chunk.js.LICENSE.txt": "/vivid_team/static/js/2.8dc42b01.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vivid_team/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d4712f2.js",
+    "static/js/runtime-main.5d6ba651.js",
     "static/js/2.8dc42b01.chunk.js",
     "static/css/main.0c2bfb06.chunk.css",
-    "static/js/main.c96cbf46.chunk.js"
+    "static/js/main.bb64d60b.chunk.js"
   ]
 }
