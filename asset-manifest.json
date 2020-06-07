@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/vivid_team/static/css/main.0c2bfb06.chunk.css",
-    "main.js": "/vivid_team/static/js/main.bb64d60b.chunk.js",
-    "main.js.map": "/vivid_team/static/js/main.bb64d60b.chunk.js.map",
+    "main.css": "/vivid_team/static/css/main.df39fdfb.chunk.css",
+    "main.js": "/vivid_team/static/js/main.9beaa8cb.chunk.js",
+    "main.js.map": "/vivid_team/static/js/main.9beaa8cb.chunk.js.map",
     "runtime-main.js": "/vivid_team/static/js/runtime-main.5d6ba651.js",
     "runtime-main.js.map": "/vivid_team/static/js/runtime-main.5d6ba651.js.map",
-    "static/js/2.8dc42b01.chunk.js": "/vivid_team/static/js/2.8dc42b01.chunk.js",
-    "static/js/2.8dc42b01.chunk.js.map": "/vivid_team/static/js/2.8dc42b01.chunk.js.map",
+    "static/js/2.f7ac0173.chunk.js": "/vivid_team/static/js/2.f7ac0173.chunk.js",
+    "static/js/2.f7ac0173.chunk.js.map": "/vivid_team/static/js/2.f7ac0173.chunk.js.map",
     "index.html": "/vivid_team/index.html",
-    "precache-manifest.1d5095017e0228699ea72ac3f3970dc5.js": "/vivid_team/precache-manifest.1d5095017e0228699ea72ac3f3970dc5.js",
+    "precache-manifest.d4cf52fece51a2df865820788853f31d.js": "/vivid_team/precache-manifest.d4cf52fece51a2df865820788853f31d.js",
     "service-worker.js": "/vivid_team/service-worker.js",
-    "static/css/main.0c2bfb06.chunk.css.map": "/vivid_team/static/css/main.0c2bfb06.chunk.css.map",
-    "static/js/2.8dc42b01.chunk.js.LICENSE.txt": "/vivid_team/static/js/2.8dc42b01.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/vivid_team/static/media/logo.5d5d9eef.svg"
+    "static/css/main.df39fdfb.chunk.css.map": "/vivid_team/static/css/main.df39fdfb.chunk.css.map",
+    "static/js/2.f7ac0173.chunk.js.LICENSE.txt": "/vivid_team/static/js/2.f7ac0173.chunk.js.LICENSE.txt",
+    "static/media/Unknown-4.jpeg": "/vivid_team/static/media/Unknown-4.0b4d270e.jpeg",
+    "static/media/Unknown-6.jpeg": "/vivid_team/static/media/Unknown-6.22ba0c27.jpeg",
+    "static/media/Unknown-7.jpeg": "/vivid_team/static/media/Unknown-7.ae7ad53e.jpeg",
+    "static/media/logo.svg": "/vivid_team/static/media/logo.5d5d9eef.svg",
+    "static/media/sc.png": "/vivid_team/static/media/sc.cda8cb26.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5d6ba651.js",
-    "static/js/2.8dc42b01.chunk.js",
-    "static/css/main.0c2bfb06.chunk.css",
-    "static/js/main.bb64d60b.chunk.js"
+    "static/js/2.f7ac0173.chunk.js",
+    "static/css/main.df39fdfb.chunk.css",
+    "static/js/main.9beaa8cb.chunk.js"
   ]
 }
