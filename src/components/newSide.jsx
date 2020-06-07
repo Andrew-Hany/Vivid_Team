@@ -274,7 +274,7 @@ this.setState({onT:false})
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lKybAxJAorQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br/>
   <br/>
-  <h1>simulation for medincin lab</h1>
+  <h1>simulation for medical lab</h1>
   <br/>
   <br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/LcD1VgOljLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
