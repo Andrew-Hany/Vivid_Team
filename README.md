@@ -1,5 +1,5 @@
 # vivid_team
-it is a demo website for education platform demo which is for competition.
+it is a demo website for education platform demo which is for hack-19 competition.
 
 # how to use
   
