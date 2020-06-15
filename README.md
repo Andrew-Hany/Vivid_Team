@@ -1,9 +1,9 @@
 # vivid_team
-it is a website for education platform demo which is for competition.
+it is a demo website for education platform demo which is for hack-19 competition.
 
-# vivid_team
+# how to use
   
 <p align="center">
-  <img src="src/logo.svg" width="350" title="hover text">
+  <img src="info.png" width="800" height="500" >
  
 </p>
