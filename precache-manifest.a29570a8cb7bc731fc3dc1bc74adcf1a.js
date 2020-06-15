@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33c586fb4866032017064a8948d6534d",
+    "revision": "1fcde2d843b0519e5305f299d2dc685f",
     "url": "/vivid_team/index.html"
   },
   {
-    "revision": "1919b1331cb8d4048618",
+    "revision": "5294b169547c530149b2",
     "url": "/vivid_team/static/css/main.bfd4eb77.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vivid_team/static/js/2.f7ac0173.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1919b1331cb8d4048618",
-    "url": "/vivid_team/static/js/main.4a75960b.chunk.js"
+    "revision": "5294b169547c530149b2",
+    "url": "/vivid_team/static/js/main.4b37d78a.chunk.js"
   },
   {
     "revision": "c6cca2c055cff1302c69",
