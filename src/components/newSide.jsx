@@ -10,7 +10,7 @@ import Tra  from './trainer';
 class Nside extends Component  {
     state={
       ong:false,
-    onC:false,
+    onC:true,
      onV:false,
     onS:false,
     onT:false,
